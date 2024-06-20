@@ -17,7 +17,7 @@ import {
 const about = {
   title: "About Me",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque numquam perspiciatis quidem fugiat sunt.",
+    "I am into problem solving, love travelling and love to explore new things both technically and personally.",
   info: [
     {
       fieldName: "Name",
@@ -59,7 +59,7 @@ const experience = {
   icon: "/assets/badge.svg",
   title: "My Experience",
   description:
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam excepturi provident illo!",
+    "I have been working on a variety of web development tasks and I am currently learning data patterns for customers churn in tecchnological industry.",
   items: [
     {
       company: "SharpCareer Technology",
@@ -79,7 +79,7 @@ const education = {
   icon: "assets/cap.svg",
   title: "My Education",
   description:
-    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet praesentium harum sit.",
+    "Below mentioned is a list of my courses pursued and college attended.",
   items: [
     {
       institution: "IIT Guwahati",
@@ -113,7 +113,7 @@ const education = {
 const skills = {
   title: "My Skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio aperiam porro possimus.",
+    "Following are my skills",
   skillList: [
     {
       icon: <FaHtml5 />,

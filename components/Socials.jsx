@@ -12,11 +12,11 @@ import {
 const socials = [
   {
     icon: <FaGithub />,
-    path: "",
+    path: "https://github.com/jatinbansal21",
   },
   {
     icon: <FaLinkedinIn />,
-    path: "",
+    path: "https://www.linkedin.com/in/jatinbansal21",
   },
   {
     icon: <FaTwitter />,
